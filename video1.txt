@@ -4,7 +4,3 @@ Includes:
 variable types (str, booleans, integers, Date (), object{})
 Basic vs commands
 
-Video 2 catch up
-
-
-Video 3 catch up
